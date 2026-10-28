@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gatepost-dev.github.io/docs/sitemap-index.xml
